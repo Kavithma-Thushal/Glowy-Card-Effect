@@ -28,6 +28,8 @@ quick integration into other web projects.</br>
 Contributions are welcome! Feel free to open issues or submit pull requests to suggest improvements, report bugs, or add
 new features.
 
+<img src="img/Glowy-Card-Effect.png">
+
 ⭐️If you hava any bugs or issues ,If you want to explain code please contact me on :<br/>
 [kavithmathushal9007@gmail.com](https://www.kavithmathushal9007@gmail.com)<br/><br/>
 
