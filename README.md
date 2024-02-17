@@ -3,6 +3,14 @@
 This mini project showcases a simple yet eye-catching glowing card effect created using HTML, CSS, and JavaScript. The
 project aims to demonstrate the use of basic web technologies to achieve visually appealing UI elements.
 
+The glowing card effect serves as a dynamic focal point, enhancing user engagement and interactivity within web
+interfaces. With subtle animation and vibrant color transitions, the card achieves a visually appealing aesthetic that
+captivates attention and elevates the overall user experience.
+
+The project serves as a testament to the power of basic web technologies in crafting engaging and immersive user
+interfaces. By showcasing a simple yet effective glowing card effect, it inspires developers to explore creative
+possibilities and experiment with dynamic visual elements in their web projects.
+
 ### Tech Stack
 
 ✅HTML</br>
